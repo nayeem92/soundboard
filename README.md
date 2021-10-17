@@ -15,4 +15,7 @@ Install the app by installing the apk folder in your phone
 ## Demo
 
 
+https://user-images.githubusercontent.com/44882242/137643588-7870452f-371c-4ffb-b247-b767afe32ead.mp4
+
+
   
